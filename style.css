@@ -1,0 +1,44 @@
+.aliniar{
+    background-color: white;
+    width: 300px;
+    border-radius: 20px;
+     border-radius: 10px;
+    border: 2px solid black ;
+    box-shadow: 8px 8px 0px 0px black;
+    padding: 20px;
+}
+body {
+    background-color: hsl(47, 88%, 63%);
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Figtree', sans-serif;
+}
+img {
+    max-width: 100%;
+   
+}
+h1 {
+    font-weight: 700;
+    font-size: 20px;
+    margin: 0;
+}
+.user
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.categoria {
+    background-color: hsl(47, 88%, 63%);
+    padding: 4px 12px;
+    font-weight: 800;
+}
+.user img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
