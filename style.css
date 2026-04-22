@@ -2,11 +2,11 @@
     background-color: white;
     width: 300px;
     border-radius: 20px;
-     border-radius: 10px;
+
     border: 2px solid black ;
     box-shadow: 8px 8px 0px 0px black;
     padding: 20px;
-    
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -57,7 +57,7 @@ h1:hover {
 }
 .fecha {
     font-size: 14px;
-    font-weight: hsl(0, 0%, 42%);
+    color: hsl(0, 0%, 42%);
     margin: 0;
 }
 .descripcion {
