@@ -45,6 +45,7 @@ h1:hover {
     border: 1px solid black;
     border-radius: 4px;
     display: inline-block;
+    font-size: 12px;
 }
 .user img {
     width: 32px;
