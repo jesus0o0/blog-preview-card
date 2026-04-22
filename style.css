@@ -51,3 +51,22 @@ h1:hover {
     height: 32px;
     border-radius: 50%;
 }
+.fecha {
+    font-size: 14px;
+    font-weight: hsl(0, 0%, 42%);
+    margin: 0;
+}
+.descripcion {
+    font-size: 14px;
+    color: hsl(0, 0%, 42%);
+    margin: 0;
+}
+h1 {
+    font-size: 20px;
+    font-weight: 800;
+    margin: 5px 0;
+    cursor: pointer;
+}
+h1:hover {
+    color: hsl(47, 88%, 63%);
+}
